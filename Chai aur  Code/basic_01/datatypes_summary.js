@@ -34,3 +34,5 @@ console.log(myFunction)
 console.log(typeof myFunction)
 console.log(typeof heros)
 console.log(typeof anotherId)
+
+// https://262.ecma-international.org/5.1/#sec-11.4.3
